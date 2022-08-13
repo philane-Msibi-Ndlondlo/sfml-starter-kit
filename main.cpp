@@ -13,7 +13,6 @@ int main() {
     
         game->display();
     }
-    std::cout << "Hello" << std::endl;
     return 0;
 }
 
