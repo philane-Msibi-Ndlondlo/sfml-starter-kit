@@ -27,8 +27,6 @@ class Game {
 
         bool isRunning();
 
-        void clear();
-
         void update();
 
         void display();
